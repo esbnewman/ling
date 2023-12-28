@@ -47,16 +47,6 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
    Undergraduate [physics thesis about a neutrino experiment.]({{site.url}}/papers/elisesthesis.pdf) Ms.
 
 
-
-
-
-	
-
-	
-	
-
-	
-
 ## Talks and Posters
 
    Fall 2023. [When wh-phrases are their own interveners.]({{site.url}}/handouts/keenan_comrie_cyclicity.pdf) Talks at the UMass Amherst Syntax Workshop and Leiden University's Comparative Syntax discussion group.
@@ -86,7 +76,4 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
    Winter 2018. (with Danfeng Wu). [The Lubukusu agreeing complementizer.]({{site.url}}/handouts/LSAhandout18.pdf) Talk at the LSA 2018 workshop on the syntax of clausal arguments in Bantu.
 
 
-	
-	
-
-[back]({{site.url}}/research)
+[back]({{site.url}})

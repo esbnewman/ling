@@ -27,3 +27,4 @@ For the past two years, I have been working on a team project with Kenyon Branan
 
 Focus particles raise interesting questions about the acquisition process, given that their contribution is entirely not-at-issue. A child must therefore use indirect reasoning to understand the utility of these words, leading to questions about what constrains learning. What makes *even* additionally interesting, and useful for an acquisition study, is that its inferences interact with negation, despite being not-at-issue. This makes the profile of adult-like competence with *even* more finegrained than is typical for other presupposition triggers.
 
+[back]({{site.url}})
