@@ -36,7 +36,7 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
    [The verb phrase and its ingredients.]({{site.url}}/papers/arg_struc_new.pdf) (re-submitted).
 
-   (2020). [On the movement/(anti)agreement correlation in Romance and Mayan.]({{site.url}}/papers/movement_(anti)agreement.pdf) Ms.
+   (2020). [On the movement/(anti)agreement correlation in Romance and Mayan.](https://ling.auf.net/lingbuzz/005375) Ms.
 
    (2018). [In do-support of phrasal auxiliary movement.]({{site.url}}/papers/E2P2-2.pdf) Ms.
 
