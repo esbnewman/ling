@@ -22,7 +22,7 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
    (2021). [On the interpretation of tense in temporal adverbial clauses.](http://doi.org/10.5334/gjgl.1429) *Glossa: A Journal of General Linguistics*, 6(1): 12. 1--30.  
 
-   (2021). [vP infinitives in Wolof: on A'-movement to Spec vP.]({{site.url}}/papers/Newman_main.pdf) *ACAL 2019 Proceedings*.
+   (2021). [vP infinitives in Wolof: on A'-movement to Spec vP.](https://ling.auf.net/lingbuzz/005352) *ACAL 2019 Proceedings*.
 
    with Gowda, Y., L. Rosenstein, and M. Hackl. (2020). [Scalar inferences in the acquisition of *even*.](https://doi.org/10.3389/fcomm.2020.593634) *Frontiers in Communication, section Language Sciences*: 5, p. 117.  
 
