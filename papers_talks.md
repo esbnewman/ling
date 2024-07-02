@@ -3,20 +3,23 @@ layout: default
 title: Papers/talks
 ---
 
-# Papers and Talks
+# Publications
 
 You can follow me on [Google Scholar](https://scholar.google.com/citations?user=IEMJXa4AAAAJ&hl=en). 
+
+## Books
+
+October 2024: [When arguments merge.](https://mitpress.mit.edu/9780262549103/when-arguments-merge/) Forthcoming in the LI Monograph Series. MIT Press.
 
 ## Thesis
 
 September 2021: [The (in)distinction between wh-movement and c-selection.](https://ling.auf.net/lingbuzz/006168)
 
-## Publications
+## Papers
 
+   (2024). The order of operations and A/Ā interactions. Nat Lang Linguist Theory. doi: [https://doi.org/10.1007/s11049-023-09611-3](https://doi.org/10.1007/s11049-023-09611-3)
 
-   (accepted). [The order of operations and A/A-bar interactions.]({{site.url}}/papers/DOMA_nllt.pdf) *To appear in NLLT*. 
-
-   (accepted). [Probing for the closest DP: a reply to Branan et al. (2022).](https://lingbuzz.net/lingbuzz/006895) *To appear in Linguistic Inquiry*. 
+   (2023). Probing for the Closest DP: A Reply to Branan and Erlewine 2022. Linguistic Inquiry. doi: [https://doi.org/10.1162/ling_a_00501](https://doi.org/10.1162/ling_a_00501)
 
    (2023). [Voice and VP-ellipsis revisited.](https://www.nyiconstellations.org) *Constellations: Journal of NYI*.  
 
