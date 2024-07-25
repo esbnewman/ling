@@ -21,7 +21,7 @@ Tensed adjunct clauses often display different restrictions on their tense and t
 
 ### The LASER project
 
-For the past two years, I have been working on a team project with Kenyon Branan, Tom McFadden, Sandhya Sundaresan, Rob Truswell, and Hedde Zeijlstra, which studies locality conditions on syntactic dependencies in several contexts. The goal of the project is to find a unified way of discussing several kinds of locality restrictions, such as intervention effects, successive cyclicity, and island effects. In this project, I have been focusing on the distribution of phi-features on nominals, exceptions to the CED (with Kenyon Branan), and the typology of adjunct clauses (with Caroline Heycock and Rob Truswell).
+For the past two years, I have been working on a team project with Kenyon Branan, Thomas McFadden, Sandhya Sundaresan, Rob Truswell, and Hedde Zeijlstra, which studies locality conditions on syntactic dependencies in several contexts. The goal of the project is to find a unified way of discussing several kinds of locality restrictions, such as intervention effects, successive cyclicity, and island effects. In this project, I have been focusing on the distribution of phi-features on nominals, exceptions to the CED (with Kenyon Branan), and the typology of adjunct clauses (with Caroline Heycock and Rob Truswell).
 
 ### Aquisition of *even*
 
