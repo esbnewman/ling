@@ -17,11 +17,11 @@ It has often been observed that verb phrases contain limited numbers and configu
 
 ### Tense in adjunct clauses
 
-Tensed adjunct clauses often display different restrictions on their tense and tense interpretation compared to matrix and embedded clauses. I investigate these restrictions in temporal adjunct clauses such as *before/after/when/since*. These adjuncts provide a unique testing ground in which to investigate tense because they have tense-like properties themselves: they encode a temporal ordering between adjunct and matrix events. I show that the meanings of the adjunct heads sometimes conflict or are redundant with the meanings adjunct tense operators, which accounts for the unusual properties of adjunct tenses.
+Tensed adjunct clauses often display different restrictions on their tense and tense interpretation compared to matrix and embedded clauses. I investigate these restrictions in temporal adjunct clauses such as *before/after/when/since*. These adjuncts provide a unique testing ground in which to investigate tense because they have tense-like properties themselves: they encode a temporal ordering between adjunct and matrix events. I show that the meanings of the adjunct heads sometimes conflict or are redundant with the meanings of adjunct tense operators, which accounts for the unusual properties of adjunct tenses.
 
 ### The LASER project
 
-For the past two years, I have been working on a team project with Kenyon Branan, Thomas McFadden, Sandhya Sundaresan, Rob Truswell, and Hedde Zeijlstra, which studies locality conditions on syntactic dependencies in several contexts. The goal of the project is to find a unified way of discussing several kinds of locality restrictions, such as intervention effects, successive cyclicity, and island effects. In this project, I have been focusing on the distribution of phi-features on nominals, exceptions to the CED (with Kenyon Branan), and the typology of adjunct clauses (with Caroline Heycock and Rob Truswell).
+From 2021-2023, I worked on a team project with Kenyon Branan, Thomas McFadden, Sandhya Sundaresan, Rob Truswell, and Hedde Zeijlstra, which studies locality conditions on syntactic dependencies in several contexts. The goal of the project is to find a unified way of discussing several kinds of locality restrictions, such as intervention effects, successive cyclicity, and island effects. In this project, and in the time since, I have been focusing on the distribution of phi-features on nominals, exceptions to the CED (with Kenyon Branan), and the typology of adjunct clauses (with Caroline Heycock and Rob Truswell).
 
 ### Aquisition of *even*
 
