@@ -9,7 +9,7 @@ You can follow me on [Google Scholar](https://scholar.google.com/citations?user=
 
 ## Books
 
-October 2024: [When arguments merge.](https://mitpress.mit.edu/9780262549103/when-arguments-merge/) Forthcoming in the LI Monograph Series. MIT Press.
+October 2024: [When arguments merge.](https://mitpress.mit.edu/9780262549103/when-arguments-merge/) LI Monograph Series. MIT Press.
 
 ## Thesis
 
