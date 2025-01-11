@@ -52,7 +52,11 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
 
 ## Talks and Posters
 
-   Fall 2023. [When wh-phrases are their own interveners.]({{site.url}}/handouts/keenan_comrie_cyclicity.pdf) Talks at the UMass Amherst Syntax Workshop and Leiden University's Comparative Syntax discussion group.
+   Winter 2025. (with Gianluca Porta). [Ne-cliticization and the DP/PP distinction: A case for Q.]({{site.url}}/handouts/LSA2025_ne_cl_of_PPs.pdf) Poster at the LSA Annual Meeting.
+
+   Fall 2024. (with Peter Grishin and Giovanni Roversi). [Obviation in Passamaquoddy-Wolastoqey: Dependent case?]({{site.url}}/handouts/Obviation_workshop_handout-2.pdf) Talk at the Understanding Obviation workshop at McGill University.
+
+   Fall 2023-Spring 2024. [When wh-phrases are their own interveners.]({{site.url}}/handouts/keenan_comrie_cyclicity.pdf) Talks at the UMass Amherst Syntax Workshop and Leiden University's Comparative Syntax discussion group.
 
    Spring 2023. [Locality and the distribution of features.]({{site.url}}/handouts/SB_Brown_Bag.pdf) Talk at the Stony Brook Brown Bag talk series.
 
