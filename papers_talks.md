@@ -35,6 +35,8 @@ September 2021: [The (in)distinction between wh-movement and c-selection.](https
  
 ## Unpublished and In Prep
 
+   [On projection and the shadow of wh.]({{site.url}}/papers/projection_cyclicity_newman24.pdf) (submitted).
+   
    with Kenyon Branan. [Paths: the ghost of features past.]({{site.url}}/papers/paths_resubmission.pdf) (re-submitted).
 
    [The verb phrase and its ingredients.]({{site.url}}/papers/arg_struc_new.pdf) (re-submitted).
